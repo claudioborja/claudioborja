@@ -1,5 +1,3 @@
-# Bienvenido a mi perfil de GitHub!
-
 ¡Hola! Soy Claudio Borja, un apasionado por la programación, Python y todo lo relacionado con la inteligencia artificial, el aprendizaje automático y la ciencia de datos.
 
 ## Acerca de mí

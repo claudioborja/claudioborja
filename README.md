@@ -19,8 +19,14 @@
 
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre IA y ML!
 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:claudio-borja@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+593989026071)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/claudioborja)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioborja&show_icons=true&theme=radical)
+##  Trofeos y Estadística
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=claudioborja)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioborja)
+![Contribuciones](https://github-readme-stats.vercel.app/api?username=claudioborja&count_private=true&show_icons=true&theme=default&hide=contribs,prs)
+
 
 

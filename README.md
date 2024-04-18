@@ -20,3 +20,7 @@
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre IA y ML!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/claudioborja)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioborja&show_icons=true&theme=radical)
+
+
